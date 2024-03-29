@@ -1,0 +1,7 @@
+{
+  "name": "trVNslator backend",
+  "dockerComposeFile": ["../../docker-compose.yaml"],
+  "service": "backend",
+  "shutdownAction": "none",
+  "workspaceFolder": "/workspace/backend"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "trVNslator frontend",
+  "dockerComposeFile": ["../../docker-compose.yaml"],
+  "service": "frontend",
+  "shutdownAction": "none",
+  "workspaceFolder": "/workspace/frontend"
+}
